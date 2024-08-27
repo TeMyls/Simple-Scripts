@@ -78,7 +78,7 @@ def strip_frames_from_gif(gif_filepath,target_folder):
     key_frame_num = 0
     all_gif_frames = im.n_frames
     #extracting the frames of the gif
-   
+    print(f"Total Frame Count:{all_gif_frames}")
     choice = input("Do you want a specific frame count? y/n? ")
     if choice.lower() == 'y':
         key_frame_num = int(input("How many frames do you want?\nEnter a number:"))
