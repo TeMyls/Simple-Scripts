@@ -5,6 +5,7 @@
 + making a folder
 + converting an mp4 to a series of jpgs
 + converting a folder of images of the same size to a gif
++ converting a series of images of the same size into a comic/spriteseheet
 + stripping the frames from a gif to a desired folder
 + converting an mp4 to gif
 + turning a gif into a spritesheet
